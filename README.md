@@ -12,5 +12,5 @@ Part of this code is based on Eli Bendersky (eliben@gmail.com) code.
 See [his GitHub page for more details][Eli Blog]
 
 
-Eli Blog: https://github.com/eliben/code-for-blog/tree/master/2009/py_rd_parser_example 
+[Eli Blog]: https://github.com/eliben/code-for-blog/tree/master/2009/py_rd_parser_example 
 
